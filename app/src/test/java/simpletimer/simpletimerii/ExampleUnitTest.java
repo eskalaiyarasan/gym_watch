@@ -1,4 +1,4 @@
-package com.sudoku.kxs42.simple_timer_app;
+package simpletimer.simpletimerii;
 
 import org.junit.Test;
 

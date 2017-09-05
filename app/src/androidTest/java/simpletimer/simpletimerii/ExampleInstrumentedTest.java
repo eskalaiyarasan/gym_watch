@@ -1,4 +1,4 @@
-package com.sudoku.kxs42.simple_timer_app;
+package simpletimer.simpletimerii;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.sudoku.kxs42.simple_timer_app", appContext.getPackageName());
+        assertEquals("simpletimer.simpletimerii", appContext.getPackageName());
     }
 }
